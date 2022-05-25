@@ -1,4 +1,4 @@
-Olá! 👋
+Olá 👋! Meu nome é Pedro Lucas, sou estudante de programação. Atualmente em formação FullStack pela Kenzie Academy Brasil.
 
 <div align="center">
   <a href="[https://github.com/pedrolx](https://www.linkedin.com/in/pedro-lucas-xavier/)">
