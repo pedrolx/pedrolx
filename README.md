@@ -1,7 +1,7 @@
 Olá 👋! Meu nome é Pedro Lucas, sou estudante de programação. Atualmente em formação FullStack pela Kenzie Academy Brasil.
 
 <div align="center">
-  <a href="[https://github.com/pedrolx](https://www.linkedin.com/in/pedro-lucas-xavier/)">
+  <a href="https://github.com/pedrolx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrolx&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolx&layout=compact&langs_count=7&theme=merko"/>
 </div>
@@ -17,3 +17,5 @@ Olá 👋! Meu nome é Pedro Lucas, sou estudante de programação. Atualmente e
 <div> 
   <a href = "mailto:pedrolucas.xs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-lucas-xavier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+
+
