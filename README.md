@@ -1,4 +1,6 @@
-Olá 👋! Meu nome é Pedro Lucas, sou estudante de programação. Atualmente em formação FullStack pela Kenzie Academy Brasil.
+Olá 👋! Meu nome é Pedro Lucas. Sou formado em Desenvolvimento Web FullStack pela Kenzie Academy Brasil e graduando em Ciências da Computação pela Faculdade Digital Descomplica + UniAmérica. Também busco desenvolver outras habilidades e aprimorar as ja existentes com cursos livres em diversas plataformas, como a DIO.
+
+
 
 <div align="center">
   <a href="https://github.com/pedrolx">
@@ -19,6 +21,6 @@ Olá 👋! Meu nome é Pedro Lucas, sou estudante de programação. Atualmente e
   
   ##
  
-<div> 
-  <a href = "mailto:pedrolucas.xs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-lucas-xavier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/pedrolucas_xs)  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:pedrolucas.xs@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/pedro-lucas-xavier/) 
+
