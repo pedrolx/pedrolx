@@ -1,4 +1,4 @@
-Olá 👋! Meu nome é Pedro Lucas. Sou formado em Desenvolvimento Web FullStack pela Kenzie Academy Brasil e graduando em Ciências da Computação pela Faculdade Digital Descomplica + UniAmérica.
+Olá 👋! Meu nome é Pedro Lucas. Sou formado em Desenvolvimento Web FullStack pela Kenzie Academy Brasil e graduando em Análise e Desenvolvimento de Sistemas pela Faculdade Digital Descomplica + UniAmérica.
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/pedrolucas_xs)  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:pedrolucas.xs@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/pedro-lucas-xavier/) 
 
